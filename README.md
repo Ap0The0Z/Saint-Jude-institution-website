@@ -7,5 +7,6 @@
   <br>
 </h1
 
+<h4 align="center">This site is a school project it consists in creating a web page.</h4>
 
 
