@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/Ap0The0Z/Saint-Jude-institution-website/blob/main/public/img/logo.png?raw=true" alt="Saint-Jude" width="200">
+  <img src="https://github.com/Ap0The0Z/Saint-Jude-institution-website/blob/main/public/img/logo.png?raw=true" alt="Saint-Jude" width="300">
   <br>
   Saint-Jude
   <br>
