@@ -10,7 +10,7 @@
 <h4 align="center">A modern Responsive Website for the Saint-Jude institution</h4>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#key-features🔑">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
