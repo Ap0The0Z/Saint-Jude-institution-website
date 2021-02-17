@@ -18,7 +18,7 @@
 
 <img src="https://github.com/Ap0The0Z/Saint-Jude-institution-website/blob/main/public/img/carbon%20(1).png?raw=true">
 
-## Key Features 🔑
+## Key Features
 
 * Complete and responsive website
 * Mobile First
