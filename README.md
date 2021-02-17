@@ -8,7 +8,7 @@
 </h1>
 
 <h4 align="center">A modern Responsive Website for the Saint-Jude institution</h4>
-
+<br>
 <img src="https://github.com/Ap0The0Z/Saint-Jude-institution-website/blob/main/public/img/carbon%20(1).png?raw=true">
 
 ## Key Features 🔑
